@@ -43,7 +43,7 @@ with a focus on **Prompt Engineering**, AI content, and non-coding AI roles.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/biswalpurbi/) ← add your link here
+- 💼 [LinkedIn](https://www.linkedin.com/in/biswalpurbi/) 
 - 📍 Odisha, India
 
 ---
