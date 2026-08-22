@@ -1,15 +1,21 @@
 # Hi, I'm Purbi 👋
 
-I'm a fresh graduate from India exploring the world of Artificial Intelligence — 
-with a focus on **Prompt Engineering**, AI content, and non-coding AI roles.
+I'm a fresh graduate from India building a career in **Data Analytics** — with a growing interest in AI and prompt engineering as a complementary skill.
+
 
 ---
 
 ## 🎯 What I'm Working On
 
-- Building a portfolio in Prompt Engineering
-- Learning from: learnprompting.org, docs.anthropic.com, deeplearning.ai
-- Practicing prompt design for summarization, email writing, and AI tasks
+- Building a portfolio of data analysis projects using Excel, SQL, and Tableau
+- Learning from: upGrad, Great Learning Academy, Alison, freeCodeCamp
+- Practicing data cleaning, pivot tables, dashboards, and data-driven storytelling
+
+---
+
+## 📊 Featured Project
+**[Defence Exports vs Allocation Analysis](./defence-exports-analysis)**
+Analyzed India's defence budget allocation vs export trends using public government data — includes data cleaning, calculated metrics, and a trend dashboard in Excel.
 
 ---
 
