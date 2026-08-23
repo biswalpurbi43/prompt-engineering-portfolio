@@ -10,7 +10,9 @@ I'm a fresh graduate from India building a career in **Data Analytics** — with
 - Building a portfolio of data analysis projects using Excel, SQL, and Tableau
 - Learning from: upGrad, Great Learning Academy, Alison, freeCodeCamp
 - Practicing data cleaning, pivot tables, dashboards, and data-driven storytelling
+- ✅ Completed: Excel-based sales analysis project — PivotTables, charts, regional & product insights ([see project](excel-projects/sales-analysis))
 
+  
 ---
 
 ## 📊 Featured Project
