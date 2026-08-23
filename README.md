@@ -56,5 +56,3 @@ Analyzed India's defence budget allocation vs export trends using public governm
 
 ---
 
-*Open to internships and entry-level roles in Prompt Engineering, AI Content, 
-and Conversational AI. Feel free to reach out!*
