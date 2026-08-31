@@ -49,6 +49,22 @@ Analyzed India's defence budget allocation vs export trends using public governm
 
 ---
 
+## 📊 Featured SQL Project
+
+### E-Commerce Sales Performance Analysis
+* **Dataset Used:** [Download Public Superstore Dataset](https://githubusercontent.com)
+* **Tools Used:** MySQL Workbench
+* **Key Objective:** Analyzed over 5,000+ sales transactions to determine revenue drivers across key retail segments.
+
+#### Sample Query Run:
+```sql
+SELECT category, SUM(sales) AS total_revenue
+FROM superstore_sales
+GROUP BY category
+ORDER BY total_revenue DESC;
+```
+---
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/biswalpurbi/) 
